@@ -1,7 +1,7 @@
 Usage
 -----
 
-A demo and deployment guide describing this solution are available on the AWS Answers website.
+A demo and deployment guide describing this solution are available on the [AWS Answers website](https://docs.aws.amazon.com/solutions/latest/aws-cloudformation-validation-pipeline/welcome.html).
 
 To start writing your own tests and pipelines to test your templates it's likely your going to want to customize which tests are run and even write your own tests.
 
